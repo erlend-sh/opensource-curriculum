@@ -148,16 +148,6 @@ https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6
 
 http://ethics.fast.ai/
 
-Community, Collaboration & Marketing
-
-Forming an organisation
-
-When you want to form a REAL organisation?
-
-In the meantime, there’s stuff like OpenCollective,
-
-There’s also umbrella orgs like the Linux Foundation, Apache foundation etc.
-
 # Industry
 
 [https://www.cnbc.com/2019/12/14/how-open-source-software-became-the-new-industry-standard.html](https://www.cnbc.com/2019/12/14/how-open-source-software-became-the-new-industry-standard.html)
