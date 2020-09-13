@@ -205,6 +205,8 @@ https://heathermeeker.com/2018/06/24/revisiting-the-open-source-business-model/
 
 [https://sfosc.org/](https://sfosc.org/)
 
+https://www.valueinopen.fm/
+
 ### Open Core
 
 [https://coss.media/open-core-definition-examples-tradeoffs/](https://coss.media/open-core-definition-examples-tradeoffs/)
@@ -353,8 +355,6 @@ https://firstdonoharm.dev/
 
 https://heathermeeker.com/2019/11/09/good-and-not-evil-the-advent-of-ethos-licensing/
 https://writing.kemitchell.com/2019/11/09/Heather-Meeker-Ethos.html
-
-[Publication strategy](https://www.notion.so/Publication-strategy-4b25044eb39448cb9d001b9680e50357)
 
 ---
 
