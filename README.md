@@ -1,4 +1,4 @@
-[![hackmd-github-sync-badge](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q/badge)](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q)
+[![hackmd-github-sync-badge](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q/badge)](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q) (also ideal for viewing)
 
 *In brief:* A curriculum for The Openness Movement, starting with a narrow focus on software and open source. Whether you’re a newcomer to open source or you’ve been involved with the practice for some time, this curriculum aims to provide a comprehensive overview of everything open source is, and aspires to be.
 
@@ -165,8 +165,9 @@ There’s also umbrella orgs like the Linux Foundation, Apache foundation etc.
 [https://www.forbes.com/sites/forbestechcouncil/2018/07/16/how-open-source-became-the-default-business-model-for-software/](https://www.forbes.com/sites/forbestechcouncil/2018/07/16/how-open-source-became-the-default-business-model-for-software/)
 
 [https://www.youtube.com/watch?v=7XTHdcmjenI](https://www.youtube.com/watch?v=7XTHdcmjenI)
+(See the upcoming Civility chapter for a follow-up on Linus’ behavior. Linus himself has made some apologies in later times. Rigorous debate and politeness are in no way mutually exclusive.)
 
-See the Civility chapter for a follow-up on Linus’ behavior. Linus himself has made some apologies in later times. Rigorous debate and politeness are in no way mutually exclusive.
+https://changelog.com/topic/oss/podcasts
 
 ## Business Differentiators
 
@@ -228,6 +229,8 @@ https://heathermeeker.com/2018/06/24/revisiting-the-open-source-business-model/
 
 - [Governing the Commons](https://wtf.tw/ref/ostrom_1990.pdf) by Elinor Ostrom
 - https://www.resilience.org/stories/2013-11-01/governing-the-commons-by-elinor-ostrom-review/
+- https://changelog.com/rfc
+- https://podcast.sustainoss.org/
 
 ## Social pressure & Burnout
 
@@ -355,13 +358,15 @@ https://writing.kemitchell.com/2019/11/09/Heather-Meeker-Ethos.html
 
 ---
 
-# Changelog
+# Appendix
+
+## Changelog
 
 ### v0.1
 
 First batch of reading material made publicly available for crowd-powered editing.
 
-# Roadmap
+## Roadmap
 
 - Better guiding text in between articles.
 - Brief summary of each piece.
