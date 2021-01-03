@@ -144,7 +144,11 @@ https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6
 
 [https://dev.to/degoodmanwilson/open-source-is-broken-g60](https://dev.to/degoodmanwilson/open-source-is-broken-g60)
 
-[https://firstdonoharm.dev/version/1/2/license.html](https://firstdonoharm.dev/version/1/2/license.html)
+[Hippocratic License 2.1](https://firstdonoharm.dev/version/2/1/license.html)
+
+[Ethical Source Movement](https://ethicalsource.dev/)
+
+[Ethical Source Definition](https://ethicalsource.dev/definition)
 
 http://ethics.fast.ai/
 
