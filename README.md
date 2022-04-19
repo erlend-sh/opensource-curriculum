@@ -199,11 +199,11 @@ https://www.valueinopen.fm/
 
 ### Open Core
 
-[https://coss.media/open-core-definition-examples-tradeoffs/](https://coss.media/open-core-definition-examples-tradeoffs/)
+[https://www.coss.community/jj/open-core-definition-examples-tradeoffs-ahi](https://www.coss.community/jj/open-core-definition-examples-tradeoffs-ahi)
 
-[https://coss.media/coss-company-value-creation-capture-fundamentals/](https://coss.media/coss-company-value-creation-capture-fundamentals/)
+[https://www.coss.community/jj/coss-company-value-creation-and-capture-fundamentals-3829](https://www.coss.community/jj/coss-company-value-creation-and-capture-fundamentals-3829)
 
-[https://coss.media/polyform-open-core-licensing/](https://coss.media/polyform-open-core-licensing/)
+[https://www.coss.community/cossc/polyform-and-open-core-2oh6](https://www.coss.community/cossc/polyform-and-open-core-2oh6)
 
 # Sustainability
 
