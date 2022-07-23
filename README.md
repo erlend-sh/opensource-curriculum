@@ -1,30 +1,34 @@
 [![hackmd-github-sync-badge](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q/badge)](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q) (also ideal for viewing)
 
-*In brief:* A curriculum for The Openness Movement, starting with a narrow focus on software and open source. Whether you’re a newcomer to open source or you’ve been involved with the practice for some time, this curriculum aims to provide a comprehensive overview of everything open source is, and aspires to be.
+*In brief:*
 
-# Openness Movement Curriculum (v0.1)
+A curriculum for students of 'open source' as it is practiced by open source spftware developers. Whether you’re a newcomer to open source or you’ve been involved with the practice for some time, this curriculum aims to provide a comprehensive overview of everything open source is, and aspires to be.
 
-This document aspires to become a comprehensive reading list for anyone seeking to deeply understand ‘openness’ as an ideology for knowledge work, a movement, an industry and more.
+# Open-Source Curriculum (v0.1.1)
+
+This document aspires to become a comprehensive reading list for anyone seeking to deeply understand ‘openness’ as an ideology for knowledge work, a distributed movement, a commercial industry and more yet to come.
+
+#### Open Source as a subset of openness
 
 https://en.wikipedia.org/wiki/Openness
 > Openness is an overarching concept or philosophy that is characterized by an emphasis on transparency and collaboration. That is, openness refers to "accessibility of knowledge, technology and other resources; the transparency of action; the permeability of organisational structures; and the inclusiveness of participation". Openness can be said to be the opposite of closedness, central authority and secrecy.
 
-Since openness is such an expansive subject, we will start here with a narrow focus on openness as pertaining to software development and the internet-connected world.
+Since openness is such an expansive subject, we will start here with a narrow focus on openness as it pertains to software development and the internet-connected world. In software and *tech*, 'open source' is the most commonly practiced form of openness.
 
-As soon as you start delving into openness in software, you'll begin hearing the term "open source". Before long you'll also learn that there is a difference between what's called "open source" and "free". And you'll learn that these terms are defined both formally and informally. It's important to be aware that no one owns these terms. There is no central authority to say what "open source" means, just like there's no central authority on the term "democracy".
+As soon as you start delving into *software openness*, you'll begin hearing the term *open source*. Before long you'll also learn that there is a difference between what's called "open source" and "free". And you'll learn that these terms are defined both formally and informally. It's important to be aware that no one owns these terms. There is no central authority to say what "open source" means, just like there's no central authority on the term "democracy".
 
-*Open source* isn't limited to just software. Any *thing* with a blueprint that enables said thing to be inspected, duplicated or modified can be regarded as open source. This blueprint could be anything from the complete specification of an airplane, all the way down to the genetic code of a seed. The openness *movement* therefore extends far beyond the confines of software.
+Open Source (sometimes capitalized!) isn't limited to just software. Any *thing* with a blueprint that enables said thing to be inspected, duplicated or modified can be regarded as open source. This blueprint could be anything from the complete specification of an airplane, all the way down to the genetic code of a seed. The openness *movement* therefore extends far beyond the confines of software.
 
-This curriculum will focus on teaching:
+From now on we will talk about the "openness movement" and "open source" somewhat interchangeably. Like it or not, "open source" is being adopted into the mainstream with new meanings attached to it that are way outside the scope of its origins. See for instance ["Open Sourced" by Vox](https://www.vox.com/open-sourced), a publication that is largely values-aligned with the open source movement, but has nothing to do with software licensing and open source practices.
+
+#### Curriculum highlights
 
 - What “open source” means
 - How openness is applied in software development
 - Economic & personal sustainability
 - Software ethics
 
-From now on we will talk about the "openness movement" and "open source" somewhat interchangeably. Like it or not, "open source" is being adopted into the mainstream with new meanings attached to it that are way outside the scope of its origins. (See for instance "Open Sourced" by Vox, a publication that is largely values-aligned with the open source movement, but has nothing to do with software licensing and open source practices.)
-
-In the open source spirit, this curriculum is itself open source, I.e. liberally licensed. We will diligently review the change requests that are sent our way, with the intent of having multiple co-editors before long. If someone strongly disagrees with how the editors exercise their final-edit powers, feel free to *fork* this curriculum. If you don’t yet know what that means, you’ll learn very soon!
+In the open source spirit, this curriculum is itself open source, I.e. permissively licensed. We will diligently review the change requests that are sent our way, with the intent of eventually having multiple co-editors. If someone strongly disagrees with how the editors exercise their final-edit powers, feel free to *fork* this curriculum. If you don’t yet know what that means, you’ll learn very soon!
 
 # What is open source
 
@@ -83,7 +87,7 @@ There is no single authority that ratifies what can be deemed "open source" or n
 
 [https://opensource.org/faq](https://opensource.org/faq)
 
-Not to be confused with opensource.COM, a advocacy site for open source by the company Red Hat.
+❕ *Not to be confused with opensource.COM, an advocacy site for open source by the company Red Hat:*
 
 **[opensource.com](http://opensource.com) by Red Hat**
 
