@@ -191,6 +191,8 @@ https://changelog.com/topic/oss/podcasts
 
 https://heathermeeker.com/2018/06/24/revisiting-the-open-source-business-model/
 
+https://blog.opentechstrategies.com/category/open-source-at-large/
+
 [https://blog.timescale.com/blog/how-open-source-software-makes-money-time-series-database-f3e4be409467/](https://blog.timescale.com/blog/how-open-source-software-makes-money-time-series-database-f3e4be409467/)
 
 [https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a](https://medium.com/blossom-capital/successful-open-source-business-models-2709e831e38a)
@@ -199,7 +201,7 @@ https://heathermeeker.com/2018/06/24/revisiting-the-open-source-business-model/
 
 [https://sfosc.org/](https://sfosc.org/)
 
-https://www.valueinopen.fm/
+https://nythesis.com/open-courses/commercial-open-source-startups/ (defunct)
 
 ### Open Core
 
