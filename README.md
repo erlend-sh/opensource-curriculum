@@ -207,6 +207,20 @@ https://nythesis.com/open-courses/commercial-open-source-startups/ (defunct)
 
 [https://www.coss.community/cossc/polyform-and-open-core-2oh6](https://www.coss.community/cossc/polyform-and-open-core-2oh6)
 
+### Entrepreneurship
+
+https://calmfund.com/writing/why-would-bootstrapped-founders-raise-capital
+
+https://calmfund.com/writing/should-you-raise-money-reilly-chase-calm-company-founder
+
+https://calmfund.com/writing/product-strategy
+
+https://calmfund.com/shared-earnings-agreement
+
+https://calmfund.com/writing/shared-earnings-agreements-with-multiple-investors
+
+https://calmfund.com/writing/founder-break-even-calculator
+
 # Sustainability
 
 [https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
@@ -347,20 +361,6 @@ https://dirkriehle.com/publications/2009-selected/the-commercial-open-source-bus
 https://dirkriehle.com/wp-content/uploads/2020/04/09062364.pdf
 
 https://dirkriehle.com/2019/12/17/single-vendor-open-source-firms-and-intellectual-property-strategies-video/
-
-## Entrepreneurship
-
-https://calmfund.com/writing/why-would-bootstrapped-founders-raise-capital
-
-https://calmfund.com/writing/should-you-raise-money-reilly-chase-calm-company-founder
-
-https://calmfund.com/writing/product-strategy
-
-https://calmfund.com/shared-earnings-agreement
-
-https://calmfund.com/writing/shared-earnings-agreements-with-multiple-investors
-
-https://calmfund.com/writing/founder-break-even-calculator
 
 ## Ethical Licensing
 
