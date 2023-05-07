@@ -1,8 +1,4 @@
-[![hackmd-github-sync-badge](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q/badge)](https://hackmd.io/Z6w4WVQdSeuByYdoTi1X2Q) (also ideal for viewing)
-
-*In brief:*
-
-A curriculum for students of 'open source' as it is practiced by open source spftware developers. Whether you’re a newcomer to open source or you’ve been involved with the practice for some time, this curriculum aims to provide a comprehensive overview of everything open source is, and aspires to be.
+*In brief:* A curriculum for students of 'open source' as it is practiced by open source software developers. Whether you’re a newcomer to open source or you’ve been involved with the practice for some time, this curriculum aims to provide a comprehensive overview of everything open source is, and aspires to be.
 
 # Open-Source Curriculum (v0.2.0)
 
