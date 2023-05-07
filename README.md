@@ -232,13 +232,10 @@ https://nythesis.com/open-courses/commercial-open-source-startups/ (defunct)
 
 ## Social pressure & Burnout
 
-[https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
-
-[https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
-
-[https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html](https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html)
-
-http://www.saurik.com/id/20
+- [https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
+- [https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
+- [https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html](https://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html)
+- http://www.saurik.com/id/20
 
 
 # Methodology
@@ -264,7 +261,9 @@ https://en.wikipedia.org/wiki/Inner_source
 ## Distributed Work
 
 https://www.welcometothejungle.com/en/articles/btc-remote-open-source
+
 https://distributed.blog/
+
 https://basecamp.com/books/remote
 
 # Community
@@ -272,7 +271,9 @@ https://basecamp.com/books/remote
 ## The Open Source Community
 
 https://opensource.com/government/10/10/what-open-source-community
+
 https://medium.com/@djhersh/community-software-is-dead-431d9f347ee6
+
 https://medium.com/sustainable-free-and-open-source-communities/we-need-sustainable-free-and-open-source-communities-edf92723d619
 
 
@@ -280,13 +281,10 @@ https://medium.com/sustainable-free-and-open-source-communities/we-need-sustaina
 
 **Starter Pack:**
 
-https://adevait.com/blog/workplace/build-open-source-community
-
-https://opensource.guide/building-community/
-
-[https://github.com/hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture)
-
-https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951
+- https://adevait.com/blog/workplace/build-open-source-community
+- https://opensource.guide/building-community/
+- [https://github.com/hintjens/socialarchitecture](https://github.com/hintjens/socialarchitecture)
+- https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951
 
 
 **Further Reading:**
@@ -337,19 +335,25 @@ https://blog.usejournal.com/understanding-open-source-and-free-software-licensin
 ## Strategy
 
 https://coss.media/open-source-creator-licensing-fundamentals/
+
 https://coss.media/how-to-choose-open-source-license/
+
 https://coss.media/understand-distribution-open-source-licensing/
 
 https://dirkriehle.com/publications/2009-selected/the-commercial-open-source-business-model/
+
 https://dirkriehle.com/wp-content/uploads/2020/04/09062364.pdf
+
 https://dirkriehle.com/2019/12/17/single-vendor-open-source-firms-and-intellectual-property-strategies-video/
 
 ## Ethical Licensing
 
 [https://ethicalsource.dev/definition/](https://ethicalsource.dev/definition/)
+
 https://firstdonoharm.dev/
 
 https://heathermeeker.com/2019/11/09/good-and-not-evil-the-advent-of-ethos-licensing/
+
 https://writing.kemitchell.com/2019/11/09/Heather-Meeker-Ethos.html
 
 ---
