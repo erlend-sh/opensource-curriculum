@@ -187,7 +187,7 @@ https://changelog.com/topic/oss/podcasts
 
 [https://en.wikipedia.org/wiki/Business_models_for_open-source_software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 
-[https://a16z.com/2019/10/04/commercializing-open-source/](https://a16z.com/2019/10/04/commercializing-open-source/)
+[https://a16z.com/2019/10/04/commercializing-open-source/](https://a16z.com/2019/10/04/commercializing-open-source/) 👉 https://archive.is/gBQIM
 
 https://heathermeeker.com/2018/06/24/revisiting-the-open-source-business-model/
 
