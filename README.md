@@ -268,9 +268,15 @@ https://basecamp.com/books/remote
 
 https://opensource.com/government/10/10/what-open-source-community
 
+The *global* open source community is an international group of independent collaborators that develops and maintains freely available software, emphasizing transparency, inclusivity, and diversity. Participation can lead to a sense of belonging, skill development, networking opportunities, and the thrill of contributing to a public good.
+
 https://medium.com/@djhersh/community-software-is-dead-431d9f347ee6
 
+The traditional model of community-driven software development is no longer effective due to fragmentation and lack of vision. Instead, companies should focus on building tribes of like-minded individuals who work together to create software that meets their specific needs.
+
 https://medium.com/sustainable-free-and-open-source-communities/we-need-sustainable-free-and-open-source-communities-edf92723d619
+
+Sustainable communities around open source software are crucial to avoid burnout and project abandonment. Building diverse and inclusive communities with clear governance structures and funding models can help achieve this goal. The "Open Collective" model can be used to support funding and transparency.
 
 
 ## Community Building
