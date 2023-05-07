@@ -4,7 +4,7 @@
 
 A curriculum for students of 'open source' as it is practiced by open source spftware developers. Whether you’re a newcomer to open source or you’ve been involved with the practice for some time, this curriculum aims to provide a comprehensive overview of everything open source is, and aspires to be.
 
-# Open-Source Curriculum (v0.1.1)
+# Open-Source Curriculum (v0.2.0)
 
 This document aspires to become a comprehensive reading list for anyone seeking to deeply understand ‘openness’ as an ideology for knowledge work, a distributed movement, a commercial industry and more yet to come.
 
@@ -346,6 +346,20 @@ https://dirkriehle.com/wp-content/uploads/2020/04/09062364.pdf
 
 https://dirkriehle.com/2019/12/17/single-vendor-open-source-firms-and-intellectual-property-strategies-video/
 
+## Entrepreneurship
+
+https://calmfund.com/writing/why-would-bootstrapped-founders-raise-capital
+
+https://calmfund.com/writing/should-you-raise-money-reilly-chase-calm-company-founder
+
+https://calmfund.com/writing/product-strategy
+
+https://calmfund.com/shared-earnings-agreement
+
+https://calmfund.com/writing/shared-earnings-agreements-with-multiple-investors
+
+https://calmfund.com/writing/founder-break-even-calculator
+
 ## Ethical Licensing
 
 [https://ethicalsource.dev/definition/](https://ethicalsource.dev/definition/)
@@ -361,6 +375,10 @@ https://writing.kemitchell.com/2019/11/09/Heather-Meeker-Ethos.html
 # Appendix
 
 ## Changelog
+
+### v0.2
+
+Added Entrepreneurship section with links from Calm Company.
 
 ### v0.1
 
