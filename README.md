@@ -144,6 +144,8 @@ https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6
 
 [https://dev.to/degoodmanwilson/open-source-is-broken-g60](https://dev.to/degoodmanwilson/open-source-is-broken-g60)
 
+https://ioo.coop/2016/05/platform-cooperativism-as-a-critique-of-open-source/
+
 [https://firstdonoharm.dev/version/1/2/license.html](https://firstdonoharm.dev/version/1/2/license.html)
 
 http://ethics.fast.ai/
