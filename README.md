@@ -138,13 +138,15 @@ https://www.youtube.com/watch?v=Ag1AKIl_2GM
 
 ## Ethics
 
-Is open source biased towards being for “good”?
+Is open source biased towards being for “good”? Is open source on its own a net-positive for pro-social activism?
 
 https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6
 
 [https://dev.to/degoodmanwilson/open-source-is-broken-g60](https://dev.to/degoodmanwilson/open-source-is-broken-g60)
 
 https://ioo.coop/2016/05/platform-cooperativism-as-a-critique-of-open-source/
+
+https://osf.io/preprints/mediarxiv/ecfpj_v1
 
 [https://firstdonoharm.dev/version/1/2/license.html](https://firstdonoharm.dev/version/1/2/license.html)
 
